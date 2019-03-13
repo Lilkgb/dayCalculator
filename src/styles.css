@@ -1,3 +1,7 @@
 body {
   background-color: blue;
 }
+
+.output {
+  font-size: 5em;
+}
